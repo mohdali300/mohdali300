@@ -1,8 +1,6 @@
-## Hi, I'm Mohamed Ali
-
 - 🎓 Computer Science Student
-- 💻: Learning **Backend with .NET Core**
-- 👨‍💻: **Desktop Developer** at @Zero Bugs
+- 💻 Learning **Backend with .NET Core**
+- 👨‍💻 **Desktop Developer** at @Zero Bugs
 - :mailbox: You can reach me with the links below
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Mohdali40)
