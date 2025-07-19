@@ -20,7 +20,7 @@
         </h1>
    
 
-<img  align="right" alt ="coding" width="400" src ="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif">
+<img  align="right" alt ="coding" width="300" src ="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif">
 
 🧠 I'm currently learning advanced .Net topics & Architectures design.
 
@@ -73,13 +73,13 @@
     <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" alt="mvc" width="40" height="40"/>
   </a>
   
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.wikipedia.org%2Fwiki%2FFile%3ASql_server_logo.png&psig=AOvVaw1JvNvIrI_zaE0Z0FiPXDLO&ust=1753024677073000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLihgP6byY4DFQAAAAAdAAAAABAK" alt="sql" width="40" height="40"/>
+</a>
   <!-- <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".net" width="40" height="40"/>
   </a> -->
 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-  <img src="https://clipart.info/images/ccovers/1499955337microsoft-sql-server-logo-png.png" alt="sql" width="40" height="40"/>
-</a>
 
 <a href="https://redis.io/" target="_blank" rel="noreferrer">
   <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" alt="redis" width="40" height="40"/>
