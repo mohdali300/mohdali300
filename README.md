@@ -7,33 +7,31 @@
                     </path>
                 </svg></a>
             <a target="_blank" rel="noopener noreferrer nofollow"
-                href="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&amp;weight=600&amp;size=24&amp;pause=1000&amp;random=false&amp;width=550&amp;lines=Hi,+I'm+Mohamed+Ali+%F0%9F%91%8B;I+'m+Software+Engineer.;+I'm+.NET+Backend+Developer+%F0%9F%92%BB."
+                href="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&amp;weight=600&amp;size=26&amp;pause=1000&amp;random=false&amp;width=600&amp;lines=Hi,+I'm+Mohamed+Ali+%F0%9F%91%8B;I+'m+Software+Engineer.;+I'm+PWD+Trainee+@ITI+9-Months+%F0%9F%92%BB."
                 style="max-width: 100%;">
-                <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&amp;weight=600&amp;size=24&amp;pause=1000&amp;random=false&amp;width=550&amp;lines=Hi,+I'm+Mohamed+Ali+%F0%9F%91%8B;I+'m+Software+Engineer.;+I'm+.NET+Backend+Developer+%F0%9F%92%BB."
+                <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&amp;weight=600&amp;size=26&amp;pause=1000&amp;random=false&amp;width=600&amp;lines=Hi,+I'm+Mohamed+Ali+%F0%9F%91%8B;I+'m+Software+Engineer.;+I'm+PWD+Trainee+@ITI+9-Months+%F0%9F%92%BB."
                     alt="Typing SVG"
-                    data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&amp;weight=600&amp;size=24&amp;pause=1000&amp;random=false&amp;width=550&amp;lines=Hi,+I'm+Mohamed+Ali+%F0%9F%91%8B;I+'m+Software+Engineer.;+I'm+.NET+Backend+Developer+%F0%9F%92%BB."
+                    data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&amp;weight=600&amp;size=26&amp;pause=1000&amp;random=false&amp;width=600&amp;lines=Hi,+I'm+Mohamed+Ali+%F0%9F%91%8B;I+'m+Software+Engineer.;+I'm+PWD+Trainee+@ITI+9-Months+%F0%9F%92%BB."
                     style="max-width: 100%;">
             </a>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-        </h1>
+</h1>
    
+<img  align="right" alt ="coding" width="350" src ="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif">
 
-<img  align="right" alt ="coding" width="300" src ="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif">
+🎓 I'm currently **Professional Web Development Trainee @ITI 9-Months**
 
-🧠 I'm currently learning advanced .Net topics & Architectures design.
+💻 Always developing **solid engineering principles with modern technologies to solve real-world problems.**
 
-👯‍♀️ I'm looking to collaborate on projects with a real impact.
+📫 Reach me and connect with the links below:
 
-📫 Reach me with the links below:
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://moali-portfolio.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ali-1a9a67242)
-[![gmail](https://img.shields.io/badge/gmail-%23F05040?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedalii.dev@gmail.com)
-[![whatsapp](https://img.shields.io/badge/whatsap-whatsapp?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/UNLGF5EH3J7XD1)
-[![telegram](https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mohdali40)
-[![behance](https://img.shields.io/badge/behance-0A66C2?style=for-the-badge&logo=behance&logoColor=white)](https://t.me/Mohdali40)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://moali-portfolio.vercel.app/) 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ali-1a9a67242) 
+[![gmail](https://img.shields.io/badge/gmail-%23F05040?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedalii.dev@gmail.com) 
+[![whatsapp](https://img.shields.io/badge/whatsap-whatsapp?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/UNLGF5EH3J7XD1) 
+[![behance](https://img.shields.io/badge/behance-0A66C2?style=for-the-badge&logo=behance&logoColor=white)](https://t.me/Mohdali40) 
 
  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=2.5%> Programming languages & Tools
 <p align="left">
@@ -72,14 +70,20 @@
   <a href="https://dotnet.microsoft.com/apps/aspnet/mvc" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" alt="mvc" width="40" height="40"/>
   </a>
-  
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.wikipedia.org%2Fwiki%2FFile%3ASql_server_logo.png&psig=AOvVaw1JvNvIrI_zaE0Z0FiPXDLO&ust=1753024677073000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLihgP6byY4DFQAAAAAdAAAAABAK" alt="sql" width="40" height="40"/>
-</a>
+
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  </a>
   <!-- <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".net" width="40" height="40"/>
   </a> -->
+<a href="https://graphql.org" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+</a>
 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
 
 <a href="https://redis.io/" target="_blank" rel="noreferrer">
   <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" alt="redis" width="40" height="40"/>
@@ -109,15 +113,21 @@
 </p>
 
 ## 📊 My Stats:
-<p align="center">
+<!-- <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohdali300&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
 
-<!--  <a href="https://github.com/mohdali300/github-readme-stats"><img alt="mohdali300" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdali300&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>-->
-</p>
+<a href="https://github.com/mohdali300/github-readme-stats"><img alt="mohdali300" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdali300&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p> -->
+
+[![GitHub Streak](https://github-readme-streak-stats-vert-alpha.vercel.app?user=mohdali300&theme=tokyonight&hide_border=true&border_radius=2.5)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdali300&layout=compact&theme=tokyonight&hide_border=true)
+<!-- <p align="center">
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdali300&show_icons=true&theme=tokyonight&hide_border=true)
+-->
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohdali300)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-q4e02xjaz-ryo-ma-s-team.vercel.app/?username=mohdali300&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
